@@ -18,7 +18,7 @@ const config: Config = {
   },
 
   url: 'https://voidchain.net',
-  baseUrl: '/',
+  baseUrl: '/docs/',
 
   organizationName: 'voidchain-net',
   projectName: 'voidchain-api-docs',
